@@ -1,0 +1,78 @@
+{
+  "build_url": "https://github.com/CDPHE/augur_build",
+  "maintainers": [
+    {"name": "CDPHE", "url": "https://cdphe.colorado.gov/"}
+  ],
+  "colorings": [
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "division",
+      "title": "Division",
+      "type": "categorical"
+    },
+    {
+      "key": "usa_region",
+      "title": "USA Region",
+      "type": "categorical"
+    },
+    {
+      "key": "location",
+      "title": "Location",
+      "type": "categorical"
+    },
+    {
+      "key": "co_county_region",
+      "title": "Colorado County Region",
+      "type": "categorical"
+    },
+    {
+      "key": "clade",
+      "title": "Clade",
+      "type": "categorical"
+    },
+    {
+      "key": "pangolin",
+      "title": "Pangolin",
+      "type": "categorical"
+    }
+  ],
+  "geo_resolutions": [
+    "co_county_region",
+    "location",
+    "usa_region",
+    "division",
+    "country",
+    "region"
+  ],
+  "display_defaults": {
+    "color_by": "division",
+    "geo_resolution": "division",
+    "map_triplicate": true,
+    "branch_label": "none"
+  },
+  "filters": [
+    "clade",
+    "pangolin",
+    "co_county_region",
+    "location",
+    "usa_region",
+    "division",
+    "country",
+    "region"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy",
+    "frequencies"
+  ]
+}

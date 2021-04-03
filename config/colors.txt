@@ -1,0 +1,133 @@
+division	North Dakota	#a6bddb
+division	South Dakota	#a6bddb
+division	Illinois	#a6bddb
+division	Indiana	#a6bddb
+division	Iowa	#a6bddb
+division	Kansas	#a6bddb
+division	Michigan	#a6bddb
+division	Minnesota	#a6bddb
+division	Missouri	#a6bddb
+division	Nebraska	#a6bddb
+division	Ohio	#a6bddb
+division	Wisconsin	#a6bddb
+division	Alaska	#bdbdbd
+division	Hawaii	#bdbdbd
+division	Puerto Rico	#bdbdbd
+division	California	#feb24c
+division	Oregon	#feb24c
+division	Washington	#feb24c
+division	Colorado	#dd1c77
+division	Idaho	#fa9fb5
+division	Montana	#fa9fb5
+division	Nevada	#fa9fb5
+division	Utah	#fa9fb5
+division	Wyoming	#fa9fb5
+division	Alabama	#99d8c9
+division	Arkansas	#99d8c9
+division	Delaware	#99d8c9
+division	Florida	#99d8c9
+division	Georgia	#99d8c9
+division	Kentucky	#99d8c9
+division	Louisiana	#99d8c9
+division	Maryland	#99d8c9
+division	Mississippi	#99d8c9
+division	North Carolina	#99d8c9
+division	South Carolina	#99d8c9
+division	Tennessee	#99d8c9
+division	Washington DC	#99d8c9
+division	West Virginia	#99d8c9
+division	Virginia	#99d8c9
+division	Arizona	#ffeda0
+division	New Mexico	#ffeda0
+division	Oklahoma	#ffeda0
+division	Texas	#ffeda0
+division	Vermont	#c994c7
+division	Connecticut	#c994c7
+division	Maine	#c994c7
+division	Massachusetts	#c994c7
+division	New Hampshire	#c994c7
+division	New Jersey	#c994c7
+division	New York	#c994c7
+division	Pennsylvania	#c994c7
+division	Rhode Island	#c994c7
+recency	Older	#416DCE
+recency	One month ago	#59A3AA
+recency	One week ago	#84BA6F
+recency	3-7 days ago	#BBBC49
+recency	1-2 days ago	#E29D39
+recency	New	#E1502A
+region	Oceania	#416DCE
+region	Asia	#59A3AA
+region	Africa	#84BA6F
+region	Europe	#BBBC49
+region	North America	#E29D39
+region	South America	#E1502A
+co_county_region	Mesa 	#a6bddb
+co_county_region	Moffat 	#a6bddb
+co_county_region	Rio Blanco 	#a6bddb
+co_county_region	Las Animas 	#bdbdbd
+co_county_region	Huerfano 	#bdbdbd
+co_county_region	Denver 	#feb24c
+co_county_region	El Paso 	#feb24c
+co_county_region	Arapahoe 	#feb24c
+co_county_region	Adams 	#feb24c
+co_county_region	Jefferson 	#feb24c
+co_county_region	Weld 	#feb24c
+co_county_region	Douglas 	#feb24c
+co_county_region	Larimer 	#feb24c
+co_county_region	Boulder 	#feb24c
+co_county_region	Broomfield 	#feb24c
+co_county_region	Logan 	#fa9fb5
+co_county_region	Morgan 	#fa9fb5
+co_county_region	Elbert 	#fa9fb5
+co_county_region	Lincoln 	#fa9fb5
+co_county_region	Yuma 	#fa9fb5
+co_county_region	Kit Carson 	#fa9fb5
+co_county_region	Washington 	#fa9fb5
+co_county_region	Phillips 	#fa9fb5
+co_county_region	Sedgwick 	#fa9fb5
+co_county_region	Cheyenne 	#fa9fb5
+co_county_region	Pueblo 	#99d8c9
+co_county_region	Garfield 	#ffeda0
+co_county_region	Eagle 	#ffeda0
+co_county_region	Summit 	#ffeda0
+co_county_region	Pitkin 	#ffeda0
+co_county_region	Routt 	#ffeda0
+co_county_region	Grand 	#ffeda0
+co_county_region	Gilpin 	#ffeda0
+co_county_region	Jackson 	#ffeda0
+co_county_region	Alamosa 	#c994c7
+co_county_region	Rio Grande 	#c994c7
+co_county_region	Conejos 	#c994c7
+co_county_region	Saguache 	#c994c7
+co_county_region	Costilla 	#c994c7
+co_county_region	Mineral 	#c994c7
+co_county_region	Crowley 	#7fcdbb
+co_county_region	Otero 	#7fcdbb
+co_county_region	Bent 	#7fcdbb
+co_county_region	Prowers 	#7fcdbb
+co_county_region	Baca 	#7fcdbb
+co_county_region	Kiowa 	#7fcdbb
+co_county_region	La Plata 	#fec44f
+co_county_region	Montezuma 	#fec44f
+co_county_region	Archuleta 	#fec44f
+co_county_region	Dolores 	#fec44f
+co_county_region	San Juan 	#fec44f
+co_county_region	Fremont 	#9e9ac8
+co_county_region	Chaffee 	#9e9ac8
+co_county_region	Teller 	#9e9ac8
+co_county_region	Lake 	#9e9ac8
+co_county_region	Park 	#9e9ac8
+co_county_region	Clear Creek 	#9e9ac8
+co_county_region	Custer 	#9e9ac8
+co_county_region	Montrose 	#fc9272
+co_county_region	Delta 	#fc9272
+co_county_region	Gunnison 	#fc9272
+co_county_region	San Miguel 	#fc9272
+co_county_region	Ouray 	#fc9272
+co_county_region	Hinsdale 	#fc9272
+pangolin_lineage	B.1.1.7	#1c9099
+pangolin_lineage	P.1	#c51b8a
+pangolin_lineage	B.1.351	#31a354
+pangolin_lineage	B.1.429	#8856a7
+pangolin_lineage	B.1.427	#dd1c77
